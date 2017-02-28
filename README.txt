@@ -1,0 +1,1 @@
+Bonjour, Le projet est de réussir cette activité tout en maîtrisant ce que l'on vient juste d'apprende avec le bash.
