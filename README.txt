@@ -1,1 +1,1 @@
-Bonjour, Le projet est de réussir cette activité tout en maîtrisant ce que l'on vient juste d'apprende avec le bash.
+Bonjour, Le projet est de créer le code html d'un nouveau site web et de le partager sur github afin de faciliter les futures collaborations.
